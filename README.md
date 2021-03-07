@@ -8,7 +8,7 @@
 My project has been divided into few functions. Each function was in charge of one task. 
 First task was counting people who got the Nobel Prize. Second was writing in console people who got the Nobel Prize in economics.
 The last task was counting the repetitions of names in the dictionary.
-##Technologies
+## Technologies
 Project is created with:
 + Python 3.8
 ## Status
